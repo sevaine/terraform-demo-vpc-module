@@ -1,0 +1,8 @@
+venv
+.vscode
+.idea
+.terraform
+*.zip
+*.zwp
+*.tfstate
+*.backup
